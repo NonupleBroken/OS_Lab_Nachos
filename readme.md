@@ -7,7 +7,7 @@ ThreadTest5函数的主要思想是先创建10个线程，如果rand() % 100 == 
 $ ./nachos -e
 ```
 
-![test1]()
+![1](https://github.com/NonupleBroken/OS_Lab_Nachos/pic/1.png)
 
 # 测试 闹钟
 
@@ -29,7 +29,7 @@ $ ./nachos -g
 ```
 可见闹钟功能正常，”打酱油“线程也能正常运作。
 
-![test2]()
+![2](https://github.com/NonupleBroken/OS_Lab_Nachos/2.png)
 
 # 测试 电梯
 
